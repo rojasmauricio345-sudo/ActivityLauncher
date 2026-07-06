@@ -46,7 +46,7 @@
     <string name="settings_summary_support_discord">Liity Discord-palvelimellemme tukea, ominaisuuspyyntöjä ja yhteisön keskusteluja varten.</string>
     <string name="settings_support_discord">Tuki ja ominaisuuspyynnöt</string>
     <string name="settings_theme">Teema</string>
-    <string name="short_description">Käynnistää piilotettuja toimintoja ja luo pikakuvakkeita asennetuille sovelluksille</string>
+    <string name="short_description">Käynnistää piilotettuja toimintoja ja luo pikakuvakkeita sovelluksille</string>
     <string name="summary_action_view_source">Tämän sovelluksen lähdekoodi on luettavissa ja muokattavissa GitHubissa. Voit vapaasti lähettää meille parannuksia ja virheenkorjauksia.</string>
     <string name="summary_personalized_ads_consent">Mukauta luvan asetuksia personoiduille mainoksille</string>
     <string name="theme_dark">Tumma Teema</string>

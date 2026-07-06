@@ -46,7 +46,7 @@
     <string name="settings_summary_support_discord">Միացեք մեր Discord սերվերին աջակցության, գործառույթների հարցումների և համայնքային քննարկումների համար:</string>
     <string name="settings_support_discord">Աջակցություն և գործառույթների հարցումներ</string>
     <string name="settings_theme">Թեմա</string>
-    <string name="short_description">Գործարկում է թաքնված գործողություններ և ստեղծում է տեղադրված հավելվածների համար կարճուղիներ</string>
+    <string name="short_description">Գործարկում թաքնված գործողություններ և ստեղծում հավելվածների համար կարճուղիներ</string>
     <string name="summary_action_view_source">Այս հավելվածի սկզբնական կոդը հասանելի է GitHub-ում կարդալու և փոփոխելու համար: Ազատ զգացեք ուղարկել մեզ բարելավումներով և սխալների ուղղումներով ձգման հարցումներ:</string>
     <string name="summary_personalized_ads_consent">Անձնայինացված գովազդների թույլտվությունները հարմարեցնել</string>
     <string name="theme_dark">Մուգ թեմա</string>
