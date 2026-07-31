@@ -8,11 +8,12 @@ Cho dù bạn là người dùng thành thạo, nhà phát triển hay chỉ đ�
 - Giao diện gọn gàng và nhẹ với giao diện đơn giản
 
 💡 Giới thiệu về dự án:
-Activity Launcher Pro là một dự án mã nguồn mở có tại https://github.com/butzist/ActivityLauncher.
+Activity Launcher Pro là một dự án mã nguồn mở có tại https://github.com/orgs/ActivityLauncher/repositories.
 
 🤝 Tham gia:
 Đây là một dự án do cộng đồng điều hành – bạn có thể đóng góp mã, bản dịch hoặc ý tưởng. Giúp chúng tôi cải thiện và phát triển!
 
 Trang web: https://activitylauncher.net
-Mã nguồn và bản dịch: https://github.com/butzist/ActivityLauncher
+Discord: https://discord.gg/gzEugJBNMr
+Mã nguồn và bản dịch: https://github.com/orgs/ActivityLauncher/repositories
 Chọn tham gia phiên bản Beta: https://play.google.com/apps/testing/de.szalkowski.activitylauncher.pro

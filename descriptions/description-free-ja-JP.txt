@@ -10,7 +10,7 @@ Activity Launcher で Android アプリの可能性を最大限に引き出し�
 - シンプルなインターフェースを備えたクリーンで軽量
 
 💡 プロジェクトについて:
-Activity Launcher は、https://github.com/butzist/ActivityLauncher で公開されているオープンソースプロジェクトに基づいています。
+Activity Launcher は、https://github.com/orgs/ActivityLauncher/repositories で公開されているオープンソースプロジェクトに基づいています。
 
 🎁 広告なしバージョンに切り替えて、私たちをサポートしよう
 広告のない体験を好みますか？ Playストアから Activity Launcher Pro をダウンロード：
@@ -23,5 +23,6 @@ https://github.com/sponsors/butzist
 これはコミュニティ主導のプロジェクトです。コード、翻訳、またはアイデアを貢献することを歓迎します。 改善と成長にご協力ください!
 
 ウェブサイト: https://activitylauncher.net
-ソースコードと翻訳: https://github.com/butzist/ActivityLauncher
+Discord: https://discord.gg/gzEugJBNMr
+ソースコードと翻訳: https://github.com/orgs/ActivityLauncher/repositories
 ベータ版へのオプトイン: https://play.google.com/apps/testing/de.szalkowski.activitylauncher

@@ -10,7 +10,7 @@ Cho dù bạn là người dùng thành thạo, nhà phát triển hay chỉ đ�
 - Giao diện gọn gàng và nhẹ với giao diện đơn giản
 
 💡 Giới thiệu về dự án:
-Activity Launcher dựa trên dự án mã nguồn mở có tại https://github.com/butzist/ActivityLauncher.
+Activity Launcher dựa trên dự án mã nguồn mở có tại https://github.com/orgs/ActivityLauncher/repositories.
 
 🎁 Chuyển sang phiên bản không quảng cáo và ủng hộ chúng tôi
 Bạn muốn trải nghiệm không quảng cáo? Tải Activity Launcher Pro từ cửa hàng Play Store:
@@ -23,5 +23,6 @@ https://github.com/sponsors/butzist
 Đây là một dự án do cộng đồng điều hành – bạn có thể đóng góp mã, bản dịch hoặc ý tưởng. Giúp chúng tôi cải thiện và phát triển!
 
 Trang web: https://activitylauncher.net
-Mã nguồn và bản dịch: https://github.com/butzist/ActivityLauncher
+Discord: https://discord.gg/gzEugJBNMr
+Mã nguồn và bản dịch: https://github.com/orgs/ActivityLauncher/repositories
 Tham gia bản Beta: https://play.google.com/apps/testing/de.szalkowski.activitylauncher
